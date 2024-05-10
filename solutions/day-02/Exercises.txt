@@ -1,0 +1,47 @@
+Exercises: What is React?
+
+    What is React?
+        React is a JS library for building single page web apps dynamically.
+
+    What is a library?
+        A library is a piece of prewritten code that you can import into your own project to use, it saves you time and effort rewriting the same code again.
+
+    What is a single page application?
+        A web application that does not redirect you to a different web page or url, the page is built dynamically in the browser without having to request another html file.
+
+    What is a component?
+        idk
+
+    What is the latest version of React?
+        idk
+
+    What is DOM?
+        Document Object Model, it's a object that models the structure of the HTML document and allows you to interact with it like a JS object.
+
+    What is React Virtual DOM?
+        idk
+
+    What does a web application or a website(composed of) have?
+        HTML structure, CSS styling, JS for dynamic code. A HTML header and body.
+
+Exercises: Why React?
+
+    Why did you chose to use react?
+    What measures do you use to know popularity ?
+    What is more popular, React or Vue ?
+
+Exercises: JSX
+
+    What is an HTML element?
+    How to write a self closing HTML element?
+    What is an HTML attribute? Write some of them
+    What is JSX?
+    What is babel?
+    What is a transpiler?
+
+Exercises: JSX Elements
+
+    What is a JSX element?
+    Write your name in a JSX element and store it in a name variable
+    Write a JSX element which displays your full name, country, title, gender, email, phone number. Use h1 for the name and p for the rest of the information and store it in a user variable
+    Write a footer JSX element
