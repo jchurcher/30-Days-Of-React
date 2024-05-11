@@ -120,11 +120,7 @@ const skillsArr = [
 const skills = (
   <div className='skills-wrapper'>
     <h2>Skills:</h2>
-    {skillsArr.map((skill) => 
-      <span className='skill' key={skill}>
-        {skill}
-      </span>
-    )}
+    {skillsArr.map((skill) => <span className='skill' key={skill}>{skill}<wbr></wbr></span>)}
   </div>
 );
 
